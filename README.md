@@ -1,7 +1,7 @@
-# Simples-c-digo-em-python-para-loguin-seguro-
+#Simples-c-digo-em-python-para-loguin-seguro-
 print('bem vindo ao site de segurança da informação')
 #idade do indivíduo é sempre importante conferir, caso não seja maior de idade, não é permitido o acesso por conter
-#  material muito importante e de grande responsabilidade, então é necessário que o indivíduo seja maior de idade para ter acesso a este site.
+#material muito importante e de grande responsabilidade, então é necessário que o indivíduo seja maior de idade para ter acesso a este site.
 idade = int(input('qual é a sua idade? '))
 if idade < 18: 
     print('Infelizmente, você não tem como acessar ao site por ser menor de idade, contate um responsável legal para que ele possa ser reponsabilizado por tudo o que faças') 
